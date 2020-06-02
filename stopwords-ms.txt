@@ -104,5 +104,4 @@
  'tidak',
  'turun',
  'untuk',
- 'who',
  'yang']
